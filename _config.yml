@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://liujiashen9307.github.io
+title: Blog of a data science enthusiast
+email: jiashen-liu@outlook.com
+author: Jason Liu
+description: A small ,cozy place for a data science enthusiast. Love exploring data science and machine learning.  
+paginate: 3
+google_analytics: 
